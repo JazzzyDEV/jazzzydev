@@ -1,7 +1,21 @@
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt="my banner"></a>
 </p>
-
+<p class="feature-info-d"><p>Easily advertise your <span id="word"> beautiful </span>discord server.</a>
+                                                                <script>	 
+                                                                    $(function () { 
+                                                                      count = 0; 
+                                                                      wordsArray = ["Art ", "Reddit ", "Web3 ", "Gaming ", "Youtube ", "Twitch ", "NFT ", "NSFW ", "Meme ", "Hangout ", "Roleplaying ", "Anime-Manga ", "Music ", "Technology ", "LGBTQ+ ", "SFW ", "Social ", "Community " , "Movie " ]; 
+                                                                      setInterval(function () { 
+                                                                        count++; 
+                                                                        $("#word").fadeOut(500, function () { 
+                                                                          $(this).text(wordsArray[count % wordsArray.length]).fadeIn(500); 
+                                                                        }); 
+                                                                      }, 2000); 
+                                                                    }); 
+                                                                    //End Replace Text function</script>
+					</div>
+				</div>
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
 </h3>
