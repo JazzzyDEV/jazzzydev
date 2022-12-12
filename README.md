@@ -1,7 +1,5 @@
-
-<img src=”https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt=”my banner”>
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -9,7 +7,7 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-Invested in Frontend & Backend website development
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
