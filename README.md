@@ -1,3 +1,5 @@
+
+<img src=”https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt=”my banner”>
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
 </p>
