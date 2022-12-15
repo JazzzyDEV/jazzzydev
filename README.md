@@ -2,7 +2,7 @@
 Hi there, I'm <a target="_blank" rel="noreferrer">JazzzyDEV</a> 👋
 </h3>
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt="my banner"></a>
+  <a target="_blank" rel="noreferrer"><img src="https://discord.c99.nl/widget/theme-2/675045882852278281.png" alt="my banner"></a>
 </p>
 
 <h2 align="center">
